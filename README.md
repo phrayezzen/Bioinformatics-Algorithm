@@ -1,0 +1,1 @@
+All files written in python. Can be run in bash, IDLE, etc. For a file such as 1-2.py, it refers to chapter one, section 2. If there are more than one file per section, it will be numbered with -1, -2, such as 1-3-1.py. A file without a prefix is by default the first file in the section (ie, 1-3.py == 1-3-0.py)
